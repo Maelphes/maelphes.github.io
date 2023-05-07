@@ -2,6 +2,12 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+
+# This is a heading. Live with it.
+
+There should be important content here.
+* * *
+
 ---
 layout: default
 ---
