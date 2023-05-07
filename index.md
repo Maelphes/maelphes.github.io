@@ -3,14 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 
+---
+layout: default
+---
+
 # This is a heading. Live with it.
 
 There should be important content here.
 * * *
 
----
-layout: default
----
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
