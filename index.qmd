@@ -1,0 +1,11 @@
+---
+title: "Marc's GitHub page"
+---
+
+This is Marc's website.
+
+Let's find out what this thing can do:
+
+```{r}
+1 + 1
+```
